@@ -1,0 +1,127 @@
+img{
+    float: left;
+}
+
+#datospersonales{
+   
+    width: 700px;
+    height: 300px;
+    background-color: #ff8080;
+    font-family: Arial;
+    color: white;
+    text-align: center;
+} 
+
+#antecedentes{
+    width: 340px;
+    font-family: Arial;
+    color: #ff8080;
+    text-align: center;
+    border-left: 10px solid #ff8080;
+    background-color: #ffffff;
+    border-bottom-width: 300px;
+}
+
+#antecedentesdatos{
+    width: 348px;
+    height: 200px;
+    background-color: #ff8080;
+    font-family: Arial;
+    color: white;
+    text-align: center;
+}
+
+.ramosoptativos{
+    width: 340px;
+    font-family: Arial;
+    color: #ff8080;
+    text-align: center;
+    border-left: 10px solid #ff8080;
+    background-color: #ffffff;
+    border-bottom-width: 300px;
+    position: relative;
+    left: 350px;
+    bottom: 265px;
+}
+
+.ramosoptativosdatos{
+    width: 348px;
+    height: 200px;
+    background-color: #ff8080;
+    font-family: Arial;
+    color: white;
+    text-align: center;
+    position: relative;
+    left: 350px;
+    bottom: 268px; 
+}
+
+.proyectos{
+    width: 700px;
+    font-family: Arial;
+    color: #ff8080;
+    text-align: center;
+    border-left: 10px solid #ff8080;
+    background-color: #ffffff;
+    border-bottom-width: 300px;
+    position: relative;
+    bottom: 267px; 
+
+}
+
+.proyecto1{
+    width: 350px;
+    height: 100px;
+    background-color: white;
+    font-family: Arial;
+    color: #ff8080;
+    text-align: left;
+    text-align: justify;
+    position: relative;
+    bottom: 150px; 
+    
+}
+
+.proyecto1img{
+    position: relative;
+    left: 370px;
+    bottom: 370px; 
+}
+
+.proyecto2{
+    width: 350px;
+    height: 100px;
+    background-color: white;
+    font-family: Arial;
+    color: #ff8080;
+    text-align: left;
+    text-align: justify;
+    position: relative;
+    bottom: 200px; 
+    
+}
+
+.proyecto2img{
+    position: relative;
+    left: 80px;
+    bottom: 150px; 
+}
+
+.proyecto3{
+    width: 350px;
+    height: 100px;
+    background-color: white;
+    font-family: Arial;
+    color: #ff8080;
+    text-align: left;
+    text-align: justify;
+    position: relative;
+    top: 50px; 
+    
+}
+
+.proyecto3img{
+    position: relative;
+    right:220px;
+    top: 80px; 
+}
